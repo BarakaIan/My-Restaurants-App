@@ -22,7 +22,7 @@
         android:background="#000000"
         android:text="MyRestaurants"
         android:id="@+id/appNameTextView"
-        android:textSize="40sp"
+        android:textSize="50sp"
         android:textStyle="bold" />
 
     <EditText
@@ -35,6 +35,7 @@
         android:layout_marginBottom="10dp"
         android:padding="5dp"
         android:hint="Enter Zip Code"
+        android:textSize="30sp"
         android:layout_centerHorizontal="true"/>
 
 
@@ -46,6 +47,7 @@
         android:layout_centerHorizontal="true"
         android:background="@color/colorAccent"
         android:text="Find Restaurants"
+        android:textSize="50sp"
         android:textColor="@color/colorTextIcons"/>
 
 
